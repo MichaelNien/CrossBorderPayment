@@ -22,3 +22,6 @@ Visa全球通匯(Visa Direct)
 
 - 帳戶 對 帳戶 匯款
 
+## 虛擬貨幣清算
+
+交易所購買 USDT，走 Tron-trc20鏈手續費(1 USDT)
