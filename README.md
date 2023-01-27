@@ -16,13 +16,17 @@ Individual 個人
 
 Visa全球通匯(Visa Direct)
 
-- Visa Debit Card帳戶 對 卡號 匯款
+- Visa Debit Card帳戶 對 信用卡卡號 匯款
+- 帳戶 對 帳戶 匯款
 
 ### Mastercard
 
 全球跨境匯款技術解決方案(Mastercard Send XB)
 
 - 帳戶 對 帳戶 匯款
+- 帳戶 對 錢包 匯款
+- 帳戶 對 信用卡卡號 匯款
+- 帳戶 對 據點 匯款
 
 ## 虛擬貨幣清算
 
