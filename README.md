@@ -31,3 +31,7 @@ Visa全球通匯(Visa Direct)
 ## 虛擬貨幣清算
 
 交易所購買 USDT，走 Tron-trc20鏈手續費(1 USDT)，轉帳到另外交易所位置，出金提領
+
+## 參考
+
+[你3天我3秒，超快的信用卡機制跨境匯款，將取代SWIFT？](https://money.udn.com/money/story/5613/6919122)
