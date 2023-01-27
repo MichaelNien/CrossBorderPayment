@@ -2,6 +2,8 @@
 
 跨境支付
 
+Individual 個人
+
 ## SWIFT
 
 台灣匯款境外
@@ -24,4 +26,4 @@ Visa全球通匯(Visa Direct)
 
 ## 虛擬貨幣清算
 
-交易所購買 USDT，走 Tron-trc20鏈手續費(1 USDT)
+交易所購買 USDT，走 Tron-trc20鏈手續費(1 USDT)，轉帳到另外交易所位置，出金提領
