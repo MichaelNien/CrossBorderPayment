@@ -34,4 +34,6 @@ Visa全球通匯(Visa Direct)
 
 ## 參考
 
-[你3天我3秒，超快的信用卡機制跨境匯款，將取代SWIFT？](https://money.udn.com/money/story/5613/6919122)
+你3天我3秒，超快的信用卡機制跨境匯款，將取代SWIFT？
+
+[https://money.udn.com/money/story/5613/6919122](https://money.udn.com/money/story/5613/6919122)
